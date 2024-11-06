@@ -1,2 +1,2 @@
 # Calculatrice
-create my first project by python language
+create my first version project by python language 
